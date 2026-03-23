@@ -1,0 +1,49 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace files
+*.mod
+*.sum
+go.work
+go.work.sum
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+tasks.log
+
+# Temporary files
+tmp/
+temp/
+
+# Binary files
+main
+tasks
+tech-ip-4
+
+# Environment
+.env
+.env.local
+
+# Vendor
+vendor/
+
+# Output
+*.out
+coverage.html
